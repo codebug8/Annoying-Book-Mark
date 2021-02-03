@@ -17,6 +17,6 @@ TODO: replace this picture with an actual diagram
 ![The Wires](TheWires.jpg)
 
 GrabCad was used to help make the CAD Model
-Pi Pico - https://grabcad.com/library/raspberry-pi-pico-1
-Buzzer - https://grabcad.com/library/active-passive-piezo-buzzer-1
-7 Seg Display - https://grabcad.com/library/7-segment-display-6
+* Pi Pico - https://grabcad.com/library/raspberry-pi-pico-1
+* Buzzer - https://grabcad.com/library/active-passive-piezo-buzzer-1
+* 7 Seg Display - https://grabcad.com/library/7-segment-display-6
